@@ -26,6 +26,9 @@ def graph(request):
         cfg['SeedFile'] = seedfile
         cfg['ExposureRate'] = exposure
         dfh = sim.run_disease_simulation(cfg, return_epi=True,write_epi=True)
-        fig =px.line(dfh.sum())
+        
+        fig =px.line(dfh.sum(), title = 'Total Number of Cases Per Day').update_layout(
+        xaxis_title="Number of Days", yaxis_title="New Cases")
+
         fig.write_html(cd + "\\simulation\\templates\\simulation\\file.html")
         return render(request, 'simulation/file.html')
