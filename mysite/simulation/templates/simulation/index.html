@@ -1,1 +1,6 @@
-<h>Hello</h>
+<form action="graph" method="post">
+    {% csrf_token %}
+    <label for="Exposure">Exposure Rate:</label><br>
+    <input type="text" id="Exposure" name="Exposure" value="{{ Exposure }}"><br>
+    <input type="submit" value="Submit">
+</form>
