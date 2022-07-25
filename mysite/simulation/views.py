@@ -1,3 +1,26 @@
 from django.shortcuts import render
+from django.http import HttpResponse
+from django.template import loader
+from . import patchsim as sim
+import os
+import plotly.express as px
 
-# Create your views here.
+
+def index(request):
+    cd = os.getcwd()
+    openfile = cd + '\\simulation\\tests\\IND_admin1_radiation_constant_0.05_normalized.patchsim'
+    popfile = cd + '\\simulation\\tests\\IND_admin1_population.patchsim'
+    cfgfile = cd + '\\simulation\\tests\\sample.cfg'
+    seedfile = cd + '\\simulation\\tests\\seed.txt'
+
+    cfg = sim.read_config(cfgfile)
+
+    cfg['PatchFile'] = popfile
+    cfg['NetworkFile'] = openfile
+    cfg['SeedFile'] = seedfile
+    dfh = sim.run_disease_simulation(cfg, return_epi=True,write_epi=True)
+    fig =px.line(dfh.sum())
+    fig.write_html(cd + "\\simulation\\templates\\simulation\\file.html")
+    context = {}
+    return render(request, 'simulation/file.html', context)
+
