@@ -1,6 +1,19 @@
 <form action="graph" method="post">
     {% csrf_token %}
+    <label for="Country">Pick a Country:</label><br>
+  <select name="Country" id="Country" value="{{ countries }}">
+    {% for i in countries %}
+        <option value="{{ i }}">{{ i }}</option>
+    {% endfor %}     
+  </select><br>
+
     <label for="Exposure">Exposure Rate:</label><br>
     <input type="text" id="Exposure" name="Exposure" value="{{ Exposure }}"><br>
+    <label for="Admin">Admin Level:</label><br>
+    <input type="text" id="Admin" name="Admin" value="{{ Admin }}"><br>
+    <label for="Radiation">Radiation Parameter:</label><br>
+    <input type="text" id="Admin" name="Radiation" value="{{ Radiation }}"><br>
+    <label for="Skew">Skew Parameter:</label><br>
+    <input type="text" id="Skew" name="Skew" value="{{ Skwe }}"><br>
     <input type="submit" value="Submit">
 </form>

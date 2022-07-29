@@ -252,3 +252,119 @@
 2022-07-25 16:54:46,008 - simulation.patchsim - INFO - Initializing simulation run...
 2022-07-25 16:54:46,008 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
 2022-07-25 16:54:46,046 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.04944491386413574 seconds.
+2022-07-25 16:55:56,065 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-25 16:55:56,065 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-25 16:55:56,067 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-25 16:55:56,067 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-25 16:55:56,067 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-25 16:55:56,070 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-25 16:55:56,071 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-25 16:55:56,071 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-25 16:55:56,071 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-25 16:55:56,101 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.035900115966796875 seconds.
+2022-07-25 18:44:26,090 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-25 18:44:26,090 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-25 18:44:26,098 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-25 18:44:26,098 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=8.000000e-01, gamma=4.000000e-01
+2022-07-25 18:44:26,098 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-25 18:44:26,110 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-25 18:44:26,114 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-25 18:44:26,114 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-25 18:44:26,118 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-25 18:44:26,164 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.07395434379577637 seconds.
+2022-07-26 16:33:01,055 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-26 16:33:01,057 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-26 16:33:01,090 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-26 16:33:01,091 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=8.000000e-01, gamma=4.000000e-01
+2022-07-26 16:33:01,091 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-26 16:33:01,101 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-26 16:33:01,107 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-26 16:33:01,108 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-26 16:33:01,108 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-26 16:33:01,153 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.09647893905639648 seconds.
+2022-07-26 16:40:15,181 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-26 16:40:15,182 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-26 16:40:15,509 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-26 16:40:15,509 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=7.000000e-01, gamma=4.000000e-01
+2022-07-26 16:40:15,509 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-26 16:40:15,824 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-26 16:40:15,832 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-26 16:40:15,832 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-26 16:40:15,832 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-26 16:40:15,881 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.6996798515319824 seconds.
+2022-07-29 01:31:33,918 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:31:33,918 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:31:34,244 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:31:34,244 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:31:34,244 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:31:38,687 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:31:46,527 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:31:46,531 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:31:46,769 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:31:46,769 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:31:46,769 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:31:47,041 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:31:47,045 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:31:47,045 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:31:47,045 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:31:47,089 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.5576119422912598 seconds.
+2022-07-29 01:41:54,652 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:41:54,652 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:41:55,021 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:41:55,021 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:41:55,021 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:41:55,377 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:41:55,401 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:41:55,401 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:41:55,401 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:41:55,452 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.8000521659851074 seconds.
+2022-07-29 01:54:53,187 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:54:53,188 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:54:53,327 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:54:53,327 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:54:53,328 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:54:53,556 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:54:53,564 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:54:53,565 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:54:53,565 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:54:53,614 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.4259214401245117 seconds.
+2022-07-29 01:57:01,307 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:57:01,307 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:57:01,435 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:57:01,435 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:57:01,435 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:57:01,615 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:57:01,617 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:57:01,617 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:57:01,617 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:57:01,647 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.3403594493865967 seconds.
+2022-07-29 01:57:51,209 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:57:51,212 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:57:51,336 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:57:51,336 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:57:51,336 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:57:51,522 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:57:51,532 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:57:51,532 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:57:51,532 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:57:51,575 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.3627593517303467 seconds.
+2022-07-29 01:58:34,009 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:58:34,009 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:58:34,148 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:58:34,148 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:58:34,148 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:58:34,322 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:58:34,324 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:58:34,324 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:58:34,324 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:58:34,354 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.34557151794433594 seconds.
+2022-07-29 01:58:43,962 - simulation.patchsim - INFO - Starting PatchSim
+2022-07-29 01:58:43,962 - simulation.patchsim - INFO - Operating PatchSim under Mobility Model
+2022-07-29 01:58:44,082 - simulation.patchsim - INFO - Loaded patch attributes
+2022-07-29 01:58:44,083 - simulation.patchsim - INFO - Parameter: alpha=6.700000e-01, beta=6.700000e-01, gamma=4.000000e-01
+2022-07-29 01:58:44,083 - simulation.patchsim - INFO - No ParamFile loaded
+2022-07-29 01:58:44,263 - simulation.patchsim - INFO - Loaded temporal travel matrix
+2022-07-29 01:58:44,266 - simulation.patchsim - INFO - Loaded seeding schedule
+2022-07-29 01:58:44,266 - simulation.patchsim - INFO - Initializing simulation run...
+2022-07-29 01:58:44,266 - simulation.patchsim - INFO - No RandomSeed found. Running in deterministic mode...
+2022-07-29 01:58:44,296 - simulation.patchsim - INFO - Simulation complete. Time elapsed: 0.3340785503387451 seconds.
