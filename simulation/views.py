@@ -272,7 +272,7 @@ def graph(request):
         prob = (populations**n)/(populations**n).sum()
 
 
-        seedfl = open("seed.txt","w")
+        seedfl = open(seedfile,"w")
 
         for i in range(len(seed_names)):
             seedfl.write('0'+" "+seed_names[i]+" "+str(int(prob[i]*scaled_pop))+'\n')
